@@ -1,0 +1,140 @@
+<div align="center">
+
+<img src="./assets/galaxy-brain.svg" alt="KodeX" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=22D3EE&center=true&vCenter=true&width=780&height=52&lines=Architecte+de+syst%C3%A8mes+cognitifs;Python+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+LLM;Je+construis+des+cerveaux+qui+compilent." alt="typing" />
+
+<br/>
+
+<a href="https://github.com/polmanas1998-star?tab=followers"><img src="https://img.shields.io/github/followers/polmanas1998-star?style=for-the-badge&logo=github&logoColor=22D3EE&label=FOLLOWERS&labelColor=05060F&color=8B5CF6" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=polmanas1998-star&style=for-the-badge&color=8B5CF6&label=VISITES" alt="visites" />
+<img src="https://img.shields.io/badge/PARIS-FR-05060F?style=for-the-badge&logo=googlemaps&logoColor=F472B6&labelColor=05060F&color=22D3EE" alt="paris" />
+
+</div>
+
+<img src="./assets/neural-divider.svg" alt="" width="100%" />
+
+## `~` whoami
+
+```python
+class KodeX:
+    def __init__(self):
+        self.role     = "fondateur · ingenieur IA"
+        self.base     = "Paris, FR"
+        self.stack    = ["Python", "FastAPI", "Next.js", "TypeScript"]
+        self.obsession = "une architecture cognitive qui tient en production"
+
+    def philosophie(self) -> str:
+        return "un chiffre publie est un plancher ou un fait date"
+```
+
+- Je construis des systèmes d'IA faits pour la **production**, pas pour la démo : orchestration de modèles, mémoire persistante, instrumentation de bout en bout.
+- Backend **Python / FastAPI**, front **Next.js**, inférence **LLM** en flux, le tout instrumenté : chaque capacité publie son compteur et son dénominateur.
+- Ce qui m'intéresse n'est pas d'écrire la capacité, c'est de prouver qu'elle **tire vraiment** en production.
+
+<details>
+<summary><b>Comment je travaille</b></summary>
+
+<br/>
+
+| Principe | En pratique |
+| --- | --- |
+| Câblage avant mécanique | Une capacité verte mais jamais appelée est une capacité morte |
+| Mesure avant opinion | Tout ratio publie son dénominateur |
+| Falsifiable | Un banc où personne ne peut perdre ne mesure rien |
+| Daté | Un nombre exact sans date pourrit en silence |
+
+</details>
+
+<img src="./assets/neural-divider.svg" alt="" width="100%" />
+
+## `~` stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,ts,js,nextjs,react,tailwind,nodejs&theme=dark" alt="stack 1" />
+<br/>
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,docker,git,github,githubactions,vercel,linux&theme=dark" alt="stack 2" />
+
+</div>
+
+<img src="./assets/neural-divider.svg" alt="" width="100%" />
+
+## `~` activite
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/299_contributions-12_derniers_mois-05060F?style=for-the-badge&labelColor=05060F&color=22D3EE" alt="contributions" />
+<img src="https://img.shields.io/badge/50-jours_actifs-05060F?style=for-the-badge&labelColor=05060F&color=8B5CF6" alt="jours actifs" />
+<img src="https://img.shields.io/badge/pic-23_le_18_juillet-05060F?style=for-the-badge&labelColor=05060F&color=F472B6" alt="pic" />
+
+<br/><br/>
+
+<sub>plancher mesure le 2026-08-24 sur le calendrier public de contributions</sub>
+
+</div>
+
+<!--
+  GRAPHE D'ACTIVITE : retire apres mesure, ce n'est pas un oubli.
+
+  github-readme-activity-graph.vercel.app repond 200 et dessine un graphe
+  parfaitement forme, mais VIDE quand les requetes arrivent en rafale, ce qui
+  est exactement la condition d'un vrai chargement de page.
+  Mesure du 2026-08-24 :
+    requete isolee        18622 octets, axe Y jusqu'a 16  -> vraies donnees
+    rafale de 3 en //     16855 octets, axe Y jusqu'a 1   -> graphe vide (3/3)
+  Rendu dans un navigateur : vide 2 fois sur 2. Le proxy d'images de GitHub
+  met en cache la premiere reponse recue : un graphe plat resterait affiche
+  des heures et donnerait l'image d'un compte inactif.
+
+  Les chiffres ci-dessus sont derives du calendrier public
+  (https://github.com/users/polmanas1998-star/contributions), pas du widget.
+-->
+
+<!--
+  CARTES DE STATISTIQUES : volontairement absentes, ce n'est pas un oubli.
+
+  Mesure du 2026-08-24, chaque URL appelee depuis cette machine :
+    github-readme-stats.vercel.app    503  DEPLOYMENT_PAUSED
+    github-profile-trophy.vercel.app  402  DEPLOYMENT_DISABLED
+    github-readme-stats-sigma-five    200  mais rend "Maximum retries exceeded"
+    streak-stats.demolab.com          200 puis 503 sur 3 essais consecutifs
+  Les instances publiques sont hors service ou instables : elles afficheraient
+  une image cassee sur le profil. Un 200 ne suffit pas, il faut lire le rendu.
+
+  Pour les reactiver de facon durable, heberge ta propre instance sur TON compte
+  Vercel (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own),
+  ajoute un PAT en variable PAT_1 pour compter les depots prives, puis colle ceci
+  en remplacant MON-INSTANCE par le domaine de ton deploiement :
+
+<img src="https://MON-INSTANCE.vercel.app/api?username=polmanas1998-star&show_icons=true&hide_border=true&bg_color=05060F&title_color=22D3EE&text_color=E6F4FF&icon_color=8B5CF6&include_all_commits=true&count_private=true" height="165" alt="stats" />
+<img src="https://MON-INSTANCE.vercel.app/api/top-langs/?username=polmanas1998-star&layout=compact&hide_border=true&bg_color=05060F&title_color=22D3EE&text_color=E6F4FF&langs_count=8" height="165" alt="langages" />
+-->
+
+<img src="./assets/neural-divider.svg" alt="" width="100%" />
+
+## `~` le serpent mange mes commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/polmanas1998-star/polmanas1998-star/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/polmanas1998-star/polmanas1998-star/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/polmanas1998-star/polmanas1998-star/output/github-snake.svg" alt="serpent de contributions" width="100%" />
+</picture>
+
+</div>
+
+<img src="./assets/neural-divider.svg" alt="" width="100%" />
+
+<div align="center">
+
+### `~` contact
+
+<a href="https://github.com/polmanas1998-star"><img src="https://img.shields.io/badge/GITHUB-05060F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="github" /></a>
+
+<br/><br/>
+
+<sub><i>des galaxies de neurones, compilées.</i></sub>
+
+</div>

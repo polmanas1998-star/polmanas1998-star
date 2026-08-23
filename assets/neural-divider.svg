@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 36" width="1200" height="36" role="img" aria-label="separateur synaptique anime">
+<defs>
+<linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+<stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+<stop offset="18%" stop-color="#22D3EE" stop-opacity=".85"/>
+<stop offset="50%" stop-color="#8B5CF6" stop-opacity="1"/>
+<stop offset="82%" stop-color="#F472B6" stop-opacity=".85"/>
+<stop offset="100%" stop-color="#F472B6" stop-opacity="0"/>
+</linearGradient>
+<filter id="dsoft" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="2"/></filter>
+</defs>
+<path id="axone" d="M 0,18 L 1200,18" fill="none" stroke="url(#fade)" stroke-width="2.4"/>
+<g fill="none" stroke="#22D3EE" stroke-width="1.2">
+<circle cx="150" cy="18" r="3" opacity=".9"><animate attributeName="r" values="3;9;3" dur="3.2s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0;.9" dur="3.2s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="375" cy="18" r="3" opacity=".9"><animate attributeName="r" values="3;9;3" dur="3.2s" begin=".6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0;.9" dur="3.2s" begin=".6s" repeatCount="indefinite"/></circle>
+<circle cx="600" cy="18" r="3" opacity=".9"><animate attributeName="r" values="3;10;3" dur="3.2s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0;.9" dur="3.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="825" cy="18" r="3" opacity=".9"><animate attributeName="r" values="3;9;3" dur="3.2s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0;.9" dur="3.2s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="1050" cy="18" r="3" opacity=".9"><animate attributeName="r" values="3;9;3" dur="3.2s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0;.9" dur="3.2s" begin="2.4s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#E6F4FF">
+<circle cx="150" cy="18" r="1.8"/><circle cx="375" cy="18" r="1.8"/><circle cx="600" cy="18" r="2.1"/><circle cx="825" cy="18" r="1.8"/><circle cx="1050" cy="18" r="1.8"/>
+</g>
+<circle r="2.8" fill="#FDE68A" filter="url(#dsoft)"><animateMotion dur="6s" repeatCount="indefinite"><mpath xlink:href="#axone"/></animateMotion></circle>
+<circle r="2.2" fill="#22D3EE" filter="url(#dsoft)"><animateMotion dur="6s" begin="2s" repeatCount="indefinite"><mpath xlink:href="#axone"/></animateMotion></circle>
+<circle r="2.2" fill="#F472B6" filter="url(#dsoft)"><animateMotion dur="6s" begin="4s" repeatCount="indefinite"><mpath xlink:href="#axone"/></animateMotion></circle>
+</svg>
