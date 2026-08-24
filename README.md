@@ -62,6 +62,21 @@ class KodeX:
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
+## `~` formations
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UNODC_SPARK-Cybercrime-12100C?style=for-the-badge&labelColor=12100C&color=0F2ECF" alt="UNODC SPARK Cybercrime" />
+<img src="https://img.shields.io/badge/Harvard-CS50-12100C?style=for-the-badge&labelColor=12100C&color=7F96FF" alt="Harvard CS50" />
+
+<br/><br/>
+
+<sub>certificat de completion, cours eLearning Cybercrime, UNODC SPARK, 10 juillet 2026<br/>CS50, Harvard University</sub>
+
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
 ## `~` activite
 
 <div align="center">
@@ -121,6 +136,7 @@ class KodeX:
 ### `~` contact
 
 <a href="https://github.com/polmanas1998-star"><img src="https://img.shields.io/badge/GITHUB-12100C?style=for-the-badge&logo=github&logoColor=7F96FF" alt="github" /></a>
+<img src="https://img.shields.io/badge/DISCORD-communaut%C3%A9_dev-12100C?style=for-the-badge&logo=discord&logoColor=7F96FF&labelColor=12100C&color=0F2ECF" alt="discord" />
 
 <br/><br/>
 
