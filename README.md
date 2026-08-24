@@ -136,7 +136,8 @@ class KodeX:
 ### `~` contact
 
 <a href="https://github.com/polmanas1998-star"><img src="https://img.shields.io/badge/GITHUB-12100C?style=for-the-badge&logo=github&logoColor=7F96FF" alt="github" /></a>
-<a href="https://discord.gg/discord-developers"><img src="https://img.shields.io/badge/DISCORD-Developers-12100C?style=for-the-badge&logo=discord&logoColor=7F96FF&labelColor=12100C&color=0F2ECF" alt="discord" /></a>
+<a href="https://discord.com/users/1335570616753061995"><img src="https://img.shields.io/badge/DISCORD-me_contacter-12100C?style=for-the-badge&logo=discord&logoColor=7F96FF&labelColor=12100C&color=0F2ECF" alt="discord" /></a>
+<a href="https://discord.gg/discord-developers"><img src="https://img.shields.io/badge/DISCORD-Developers-12100C?style=for-the-badge&logo=discord&logoColor=7F96FF&labelColor=12100C&color=6E6B64" alt="discord developers" /></a>
 
 <br/><br/>
 
