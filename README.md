@@ -1,27 +1,29 @@
 <div align="center">
 
-<img src="./assets/galaxy-brain.svg" alt="KodeX" width="100%" />
+<img src="./assets/banner.jpg" alt="KodeX" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=22D3EE&center=true&vCenter=true&width=780&height=52&lines=Architecte+de+syst%C3%A8mes+cognitifs;Python+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+LLM;Je+construis+des+cerveaux+qui+compilent." alt="typing" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7F96FF&center=true&vCenter=true&width=780&height=48&lines=Architecte+de+syst%C3%A8mes+cognitifs;Python+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+LLM;tout+ce+qui+est+publi%C3%A9+est+mesur%C3%A9." alt="typing" />
 
 <br/>
 
-<a href="https://github.com/polmanas1998-star?tab=followers"><img src="https://img.shields.io/github/followers/polmanas1998-star?style=for-the-badge&logo=github&logoColor=22D3EE&label=FOLLOWERS&labelColor=05060F&color=8B5CF6" alt="followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=polmanas1998-star&style=for-the-badge&color=8B5CF6&label=VISITES" alt="visites" />
-<img src="https://img.shields.io/badge/PARIS-FR-05060F?style=for-the-badge&logo=googlemaps&logoColor=F472B6&labelColor=05060F&color=22D3EE" alt="paris" />
+<a href="https://github.com/polmanas1998-star?tab=followers"><img src="https://img.shields.io/github/followers/polmanas1998-star?style=for-the-badge&logo=github&logoColor=FCFBF9&label=FOLLOWERS&labelColor=12100C&color=0F2ECF" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=polmanas1998-star&style=for-the-badge&color=0F2ECF&label=VISITES" alt="visites" />
+<img src="https://img.shields.io/badge/PARIS-FR-12100C?style=for-the-badge&logo=googlemaps&logoColor=7F96FF&labelColor=12100C&color=6E6B64" alt="paris" />
 
 </div>
 
-<img src="./assets/neural-divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## `~` whoami
 
 ```python
 class KodeX:
     def __init__(self):
-        self.role     = "fondateur · ingenieur IA"
-        self.base     = "Paris, FR"
-        self.stack    = ["Python", "FastAPI", "Next.js", "TypeScript"]
+        self.role      = "fondateur · ingenieur IA"
+        self.base      = "Paris, FR"
+        self.stack     = ["Python", "FastAPI", "Next.js", "TypeScript"]
         self.obsession = "une architecture cognitive qui tient en production"
 
     def philosophie(self) -> str:
@@ -29,7 +31,7 @@ class KodeX:
 ```
 
 - Je construis des systèmes d'IA faits pour la **production**, pas pour la démo : orchestration de modèles, mémoire persistante, instrumentation de bout en bout.
-- Backend **Python / FastAPI**, front **Next.js**, inférence **LLM** en flux, le tout instrumenté : chaque capacité publie son compteur et son dénominateur.
+- Backend **Python / FastAPI**, front **Next.js**, inférence **LLM** en flux, le tout mesuré : chaque capacité publie son compteur et son dénominateur.
 - Ce qui m'intéresse n'est pas d'écrire la capacité, c'est de prouver qu'elle **tire vraiment** en production.
 
 <details>
@@ -46,7 +48,7 @@ class KodeX:
 
 </details>
 
-<img src="./assets/neural-divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## `~` stack
 
@@ -58,15 +60,15 @@ class KodeX:
 
 </div>
 
-<img src="./assets/neural-divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## `~` activite
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/299_contributions-12_derniers_mois-05060F?style=for-the-badge&labelColor=05060F&color=22D3EE" alt="contributions" />
-<img src="https://img.shields.io/badge/50-jours_actifs-05060F?style=for-the-badge&labelColor=05060F&color=8B5CF6" alt="jours actifs" />
-<img src="https://img.shields.io/badge/pic-23_le_18_juillet-05060F?style=for-the-badge&labelColor=05060F&color=F472B6" alt="pic" />
+<img src="https://img.shields.io/badge/299_contributions-12_derniers_mois-12100C?style=for-the-badge&labelColor=12100C&color=0F2ECF" alt="contributions" />
+<img src="https://img.shields.io/badge/50-jours_actifs-12100C?style=for-the-badge&labelColor=12100C&color=7F96FF" alt="jours actifs" />
+<img src="https://img.shields.io/badge/pic-23_le_18_juillet-12100C?style=for-the-badge&labelColor=12100C&color=6E6B64" alt="pic" />
 
 <br/><br/>
 
@@ -87,31 +89,18 @@ class KodeX:
   met en cache la premiere reponse recue : un graphe plat resterait affiche
   des heures et donnerait l'image d'un compte inactif.
 
-  Les chiffres ci-dessus sont derives du calendrier public
-  (https://github.com/users/polmanas1998-star/contributions), pas du widget.
--->
-
-<!--
-  CARTES DE STATISTIQUES : volontairement absentes, ce n'est pas un oubli.
-
-  Mesure du 2026-08-24, chaque URL appelee depuis cette machine :
+  Idem pour les cartes de statistiques :
     github-readme-stats.vercel.app    503  DEPLOYMENT_PAUSED
     github-profile-trophy.vercel.app  402  DEPLOYMENT_DISABLED
     github-readme-stats-sigma-five    200  mais rend "Maximum retries exceeded"
     streak-stats.demolab.com          200 puis 503 sur 3 essais consecutifs
-  Les instances publiques sont hors service ou instables : elles afficheraient
-  une image cassee sur le profil. Un 200 ne suffit pas, il faut lire le rendu.
+  Un 200 ne suffit pas, il faut lire le rendu.
 
-  Pour les reactiver de facon durable, heberge ta propre instance sur TON compte
-  Vercel (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own),
-  ajoute un PAT en variable PAT_1 pour compter les depots prives, puis colle ceci
-  en remplacant MON-INSTANCE par le domaine de ton deploiement :
-
-<img src="https://MON-INSTANCE.vercel.app/api?username=polmanas1998-star&show_icons=true&hide_border=true&bg_color=05060F&title_color=22D3EE&text_color=E6F4FF&icon_color=8B5CF6&include_all_commits=true&count_private=true" height="165" alt="stats" />
-<img src="https://MON-INSTANCE.vercel.app/api/top-langs/?username=polmanas1998-star&layout=compact&hide_border=true&bg_color=05060F&title_color=22D3EE&text_color=E6F4FF&langs_count=8" height="165" alt="langages" />
+  Pour les reactiver durablement, heberger sa propre instance sur son compte
+  Vercel (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
 -->
 
-<img src="./assets/neural-divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## `~` le serpent mange mes commits
 
@@ -125,16 +114,16 @@ class KodeX:
 
 </div>
 
-<img src="./assets/neural-divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 <div align="center">
 
 ### `~` contact
 
-<a href="https://github.com/polmanas1998-star"><img src="https://img.shields.io/badge/GITHUB-05060F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="github" /></a>
+<a href="https://github.com/polmanas1998-star"><img src="https://img.shields.io/badge/GITHUB-12100C?style=for-the-badge&logo=github&logoColor=7F96FF" alt="github" /></a>
 
 <br/><br/>
 
-<sub><i>des galaxies de neurones, compilées.</i></sub>
+<sub><i>tout ce qui est publié est mesuré.</i></sub>
 
 </div>

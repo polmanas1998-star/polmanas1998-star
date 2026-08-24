@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="separateur">
+<defs>
+<linearGradient id="seg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="180" y2="0">
+<stop offset="0%" stop-color="#0f2ecf" stop-opacity="0"/>
+<stop offset="50%" stop-color="#7f96ff" stop-opacity="1"/>
+<stop offset="100%" stop-color="#0f2ecf" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<line x1="0" y1="12" x2="1200" y2="12" stroke="#6e6b64" stroke-width="1" opacity=".38"/>
+<rect x="-180" y="11" width="180" height="2" fill="url(#seg)">
+<animate attributeName="x" values="-180;1200" dur="7s" repeatCount="indefinite"/>
+</rect>
+<rect x="0" y="10" width="46" height="4" fill="#0f2ecf" opacity=".9"/>
+</svg>
