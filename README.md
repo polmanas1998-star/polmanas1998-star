@@ -50,6 +50,41 @@ class KodeX:
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
+## `~` ce que je mesure en ce moment
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/65,1%25-du_prompt_decrit_l'assistant-12100C?style=for-the-badge&labelColor=12100C&color=0F2ECF" alt="part identite" />
+<img src="https://img.shields.io/badge/bande_56,9_--_66,3-n%3D30-12100C?style=for-the-badge&labelColor=12100C&color=7F96FF" alt="bande" />
+<img src="https://img.shields.io/badge/619x_publie-194x_reel-12100C?style=for-the-badge&labelColor=12100C&color=6E6B64" alt="correction" />
+
+</div>
+
+<br/>
+
+**La part du prompt qui parle de l'assistant, et non de vous.** Mesuree 30 fois,
+ablation desarmee : le bloc d'identite et de style occupe **65,1 %** du prompt
+systeme, mediane, bande 56,9 a 66,3. L'ecart n'est pas du bruit, c'est la **forme
+de la question** : une question de raisonnement fait entrer d'autres blocs et
+dilue l'identite de neuf points. Quatre valeurs contradictoires trainaient dans
+mes notes parce qu'elles mesuraient des melanges de questions differents. Une
+seule passe propre a suffi a les reconcilier.
+
+**Une correction qui m'a coute.** J'ai publie un facteur **619x**. La vraie valeur
+est **194x**. Une tache de fond que j'avais lancee et oubliee tournait encore
+pendant la seconde mesure, et elle a ralenti les deux cotes inegalement. Seul le
+point le plus court a bouge, celui sur lequel le ratio repose : mes points a
+grand N etaient presque justes, 4,86 contre 5,08, et le resultat etait quand meme
+faux d'un facteur trois. Corrige publiquement le jour meme.
+
+<br/>
+
+<div align="center">
+<sub>un ratio est plus fragile qu'une valeur : je publie desormais ses deux bornes,<br/>pour qu'un lecteur puisse le recalculer sans moi.</sub>
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
 ## `~` stack
 
 <div align="center">
